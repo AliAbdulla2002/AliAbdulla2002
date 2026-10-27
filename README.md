@@ -11,7 +11,7 @@
 
 <br/>
 
-Entry-level Software Engineer and UI/UX Designer with a B.S. in Information Systems from the University of Bahrain and a 420-hour Software Engineering Bootcamp at General Assembly. I build secure, responsive full-stack web apps with the MERN stack, JWT and session authentication, role-based access control and GitHub Actions CI/CD.
+Software Engineer and UI/UX Designer with a B.S. in Information Systems from the University of Bahrain and a 420-hour Software Engineering Bootcamp at General Assembly. I build secure, responsive full-stack web apps with the MERN stack, JWT and session authentication, role-based access control and GitHub Actions CI/CD.
 
 <br/>
 
