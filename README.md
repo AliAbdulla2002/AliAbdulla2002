@@ -75,22 +75,6 @@ Entry-level Software Engineer and UI/UX Designer with a B.S. in Information Syst
 
 <br/><br/>
 
-## Featured Projects
-
-| Project | What it is | Tech | Link |
-|---|---|---|---|
-| **SAWERNI** | Mobile platform connecting photographers and clients across the GCC | Graduation project (team) | [Live Demo](https://sawerni.online) |
-| **GCC Talent Marketplace** | Full-stack freelance platform for the Gulf with role-based access, contract milestones and an escrow payment system on MongoDB session transactions | MongoDB, Express.js, React.js, Node.js, JWT, GitHub Actions | [Live Demo](https://ga-gcc-talent.vercel.app) |
-| **Filsy** | Expense and financial-goal manager with currency conversion through an exchange-rate API | React.js, Express.js, Node.js, MongoDB, Bootstrap | [Live Demo](https://filsy.netlify.app) |
-| **Shooter Rent Equipment** | Equipment rental manager with full CRUD, session-based authentication and route authorization | Node.js, Express.js, MongoDB, EJS, Bootstrap, Cloudinary | [Live Demo](https://shooter-rent-equipment.onrender.com) |
-| **Knowledge Hub** | Bilingual IT-support knowledge hub built during my internship at the Ministry of Industry and Commerce, with an admin dashboard, live analytics and audit logging | Node.js, SQLite, Tailwind CSS | [Live Demo](https://sijilat-knowledge-system.onrender.com) |
-| **Hussain Networking** | Hands-on networking labs website | Freelance project | [Live Demo](https://hussain-networking-frontend.vercel.app) |
-| **Spaceman** | Browser-based game | JavaScript, HTML, CSS | [Live Demo](https://aliabdulla2002.github.io/spaceman-game) |
-| **Internship Management System** | UI/UX MVP prototype | Figma | [View Prototype](https://www.figma.com/proto/OkdagUWjvfYiyhMIgOYqeL/internship-management-system?node-id=4-2&t=nRAgbySnujrZan1y-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2&show-proto-sidebar=1) |
-| **AE ATM** | UI/UX MVP prototype | Figma | [View Prototype](https://www.figma.com/proto/VmJj253eqBy2H2yI8Tc1Ec?node-id=0-1&t=qjfJF2NfArVAqwCY-6) |
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliAbdulla2002/AliAbdulla2002/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliAbdulla2002/AliAbdulla2002/output/github-snake.svg" />
