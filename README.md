@@ -3,10 +3,13 @@
 # Ali Saleh Abdulla
 **Software Engineer · Full-Stack Developer (MERN) · UI/UX Designer**
 
-<img width="1180" height="610" alt="light" src="https://github.com/user-attachments/assets/00b320cc-3848-4df8-8238-719d6bc5d741" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/fe55d0ef-51bd-4dd6-a206-6fb84689d797" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/00b320cc-3848-4df8-8238-719d6bc5d741" />
+  <img alt="Ali Saleh Abdulla - profile terminal" src="https://github.com/user-attachments/assets/00b320cc-3848-4df8-8238-719d6bc5d741" width="100%" />
+</picture>
 
-<img width="1180" height="610" alt="dark" src="https://github.com/user-attachments/assets/fe55d0ef-51bd-4dd6-a206-6fb84689d797" />
-
+<br/><br/>
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=AliAbdulla2002&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
 <br/>
