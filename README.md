@@ -4,9 +4,9 @@
 **Software Engineer · Full-Stack Developer (MERN) · UI/UX Designer**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/fe55d0ef-51bd-4dd6-a206-6fb84689d797" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/00b320cc-3848-4df8-8238-719d6bc5d741" />
-  <img alt="Ali Saleh Abdulla - profile terminal" src="https://github.com/user-attachments/assets/00b320cc-3848-4df8-8238-719d6bc5d741" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliAbdulla2002/AliAbdulla2002/main/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliAbdulla2002/AliAbdulla2002/main/light.svg" />
+  <img alt="Ali Saleh Abdulla - profile terminal" src="https://raw.githubusercontent.com/AliAbdulla2002/AliAbdulla2002/main/dark.svg" width="100%" />
 </picture>
 
 <br/>
